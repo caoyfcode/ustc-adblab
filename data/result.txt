@@ -1,0 +1,36 @@
+lru: 
+    access count: 500000
+    hit count: 169565
+    hit rate: 0.33913
+    io count: 502821
+    time: 1.9011s
+mru: 
+    access count: 500000
+    hit count: 13768
+    hit rate: 0.027536
+    io count: 727036
+    time: 2.16119s
+random: 
+    access count: 500000
+    hit count: 151716
+    hit rate: 0.303432
+    io count: 533074
+    time: 1.95342s
+clock: 
+    access count: 500000
+    hit count: 164444
+    hit rate: 0.328888
+    io count: 511780
+    time: 1.92291s
+lru-2: 
+    access count: 500000
+    hit count: 217857
+    hit rate: 0.435714
+    io count: 419835
+    time: 2.1977s
+2q:
+    access count: 500000
+    hit count: 217859
+    hit rate: 0.435718
+    io count: 419832
+    time: 1.47313s
